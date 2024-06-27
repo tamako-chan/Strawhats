@@ -1,1 +1,4 @@
-# Module-1-Strawhats
+# Team: Strawhats
+
+Task 1: Compression
+Task 2: Mesh Hierarchy
